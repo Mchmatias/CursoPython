@@ -54,4 +54,4 @@ Comprovacion del ejercicio 6
 # bola_magica("¿Voy a aprobar el examen?")
 # redondear(5.5)
 
-
+#Ralizado por Ramirez galvan Jose Mathias
